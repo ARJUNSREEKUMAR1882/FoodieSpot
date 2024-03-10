@@ -1,0 +1,15 @@
+
+
+.center-all {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  vertical-align: center;
+}
+.sticky {
+  position: fixed;
+  top:0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
